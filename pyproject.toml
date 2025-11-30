@@ -1,0 +1,11 @@
+[project]
+name = "python-criando-agentes-com-agnos"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "agno>=2.3.4",
+    "groq>=0.36.0",
+    "python-dotenv>=1.2.1",
+]
